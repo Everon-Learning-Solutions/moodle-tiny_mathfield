@@ -1,0 +1,39 @@
+#popup {
+    display: none;
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    background-color: #fff;
+    z-index: 1000;
+
+
+    border-radius: 4px;
+    width: 500px;
+    max-width: 90%;
+    background: #fff;
+    /* padding: 1em 2em; */
+}
+
+#popup .modal__content{
+    padding:1em;
+}
+
+#popup-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color: rgba(0, 0, 0, 0.5);
+    z-index: 999;
+}
+
+.no-scroll {
+    overflow: hidden;
+    height: 100%;
+}
+.ML__keyboard{
+    z-index: 1001 !important; 
+}
