@@ -1,6 +1,9 @@
 # Mathlive #
 
-TODO Describe the plugin shortly here.
+The Mathlive Tiny MCE plugin is built using the open-source MathField - A flexible, powerful, and accessible way to write math on the web. MathField is built on LaTeX and utilizes fully customizable math virtual keyboards.
+
+Link: https://mathlive.io/mathfield
+Github: https://github.com/arnog/mathlive
 
 TODO Provide more detailed description here.
 
@@ -29,7 +32,7 @@ to complete the installation from the command line.
 
 ## License ##
 
-2024 CharlieZhang <charlie.zhang@cangloryeducation.com>
+2024 Charlie Zhang <charlie.zhang@everonlearning.com>
 
 This program is free software: you can redistribute it and/or modify it under
 the terms of the GNU General Public License as published by the Free Software
